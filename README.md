@@ -16,6 +16,7 @@
 ---
 
 ### 🌱 Currently Learning
+- Python
 - JavaScript 
 ---
 
