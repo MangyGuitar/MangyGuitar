@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-- 🇪🇸 Developer from Spain, curious about how things work under the hood.
+- 🚀 Crafting ideas into code, exploring how things work under the hood, and breaking (and fixing) them to learn even more. 
 - 🔥 Passionate about programming, continuous learning, and problem-solving with logic and patience.
 - 💡 Always open to exploring new topics, ideas, and technologies.
 
