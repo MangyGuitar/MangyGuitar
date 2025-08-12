@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mangy</h1>
-<p align="center">Developer from Spain, passionate about code, logic, and cybersecurity.</p>
+<p align="center">🖥️ Developer from Spain | 🧠 Code. Logic. Cybersecurity.</p>
 
 <p align="center">
   <img src="https://images7.alphacoders.com/129/1291976.jpg" alt="Cyberpunk city" width="800"/>
@@ -14,9 +14,9 @@
 
 ---
 
-## 🌱 Currently Learning
-- Python
-- JavaScript  
+## 🌱 Currently Learning  
+- 🐍 Python
+- ⚙️ JavaScript
 
 ---
 
@@ -38,4 +38,6 @@
 
 ---
 
-<p align="center">💬 “Code is like humor — when you have to explain it, it’s bad.”</p>
+<p align="center">
+  🌌 <em>"With a few keystrokes… worlds beyond imagination are forged."</em> 🪄
+</p>
